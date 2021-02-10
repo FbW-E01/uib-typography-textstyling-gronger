@@ -6,9 +6,38 @@
 
 body {
     padding: 40px;
+    color:blueviolet;
+    font-family: 'Times New Roman', Times, serif
+    font-weight: 600;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+    margin: 20px auto;
+    text-align: center;
+    letter-spacing: -3px;
+    word-spacing: 15px;
 }
 
 blockquote {
     margin: 0 0 0 30px;
+    font-style: italic;
+    line-height: 6.7; 
+    text-indent: 350px;
+
+span {
+    text-decoration-line: line-through;
+}
+em {
+    text-transform: capitalize; 
+}
+
+strong {
+    text-transform: uppercase;
+    font-weight: bold;
 }
 
